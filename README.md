@@ -1,6 +1,6 @@
 # Sarah Scarano · Modern Mustard Seed
 
-I'm Sarah Scarano, Agentic Developer and Creative Director at Modern Mustard Seed. I build AI agents, voice agents, MCP connectors for Claude and the software around them, and I direct how they look and sound. My husband Anthony runs sales and marketing, and together we run Modern Mustard Seed, an AI product studio in the Flathead Valley, Montana. What we build is managed for you, end to end, and it stays in your name.
+I'm Sarah Scarano, Agentic Developer and Creative Director. I build AI agents, voice agents, MCP connectors for Claude and the software around them, and I direct how they look and sound. My husband Anthony runs sales and marketing, and together we run Modern Mustard Seed, an AI product studio in the Flathead Valley, Montana. What we build is managed for you, end to end, and it stays in your name.
 
 Most of my work is private because it belongs to the businesses I build for. What's here is the part meant to be used.
 
